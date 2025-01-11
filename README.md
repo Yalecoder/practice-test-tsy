@@ -64,14 +64,14 @@ A aplicação foi desenvolvida em React, utilizando hooks como `useState` para g
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/faturamento-calculos.git
+git clone https://github.com/Yalecoder/practice-test-tsy.git
 ```
 
 2. **Instale as dependências:**
 
 ```bash
-cd faturamento-calculos
-npm install
+cd practice-test-tsy
+npm install ou yarn
 ```
 
 3. **Execute a aplicação:**
@@ -87,6 +87,10 @@ Isso irá rodar a aplicação no navegador. Normalmente, ela estará disponível
 ### `Sum.tsx`
 
 Este componente é responsável por exibir e calcular a soma incremental até um índice fornecido. O usuário pode alterar o índice e ver a soma atualizada em tempo real. A função `calcularSomaIncremental` é chamada toda vez que o valor do índice é alterado, e o resultado é recalculado dinamicamente.
+
+### `Fibonacci.tsx`
+
+Este componente é responsável
 
 ### `DailyBilling.tsx`
 
